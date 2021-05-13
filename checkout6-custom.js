@@ -20,6 +20,7 @@
   }
 });*/
 
+
 /* FUNCIONES COMPARTIDAS */
 const commonFunctions = {
   init() {
